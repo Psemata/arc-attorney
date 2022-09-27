@@ -1,0 +1,68 @@
+
+objection.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+objection1
+  rotate: false
+  xy: 2, 388
+  size: 400, 384
+  orig: 400, 384
+  offset: 0, 0
+  index: -1
+objection2
+  rotate: false
+  xy: 2, 2
+  size: 400, 384
+  orig: 400, 384
+  offset: 0, 0
+  index: -1
+objection3
+  rotate: false
+  xy: 404, 388
+  size: 400, 384
+  orig: 400, 384
+  offset: 0, 0
+  index: -1
+objection4
+  rotate: false
+  xy: 404, 2
+  size: 400, 384
+  orig: 400, 384
+  offset: 0, 0
+  index: -1
+
+objection2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+objection5
+  rotate: false
+  xy: 2, 388
+  size: 400, 384
+  orig: 400, 384
+  offset: 0, 0
+  index: -1
+objection6
+  rotate: false
+  xy: 2, 2
+  size: 400, 384
+  orig: 400, 384
+  offset: 0, 0
+  index: -1
+objection7
+  rotate: false
+  xy: 404, 388
+  size: 400, 384
+  orig: 400, 384
+  offset: 0, 0
+  index: -1
+objection8
+  rotate: false
+  xy: 404, 2
+  size: 400, 384
+  orig: 400, 384
+  offset: 0, 0
+  index: -1

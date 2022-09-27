@@ -1,0 +1,166 @@
+
+DA.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+frame
+  rotate: false
+  xy: 2, 778
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 0
+frame
+  rotate: false
+  xy: 2, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 1
+frame
+  rotate: false
+  xy: 260, 778
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 2
+frame
+  rotate: false
+  xy: 2, 390
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 3
+frame
+  rotate: false
+  xy: 260, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 4
+frame
+  rotate: false
+  xy: 518, 778
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 5
+frame
+  rotate: false
+  xy: 2, 196
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 6
+frame
+  rotate: false
+  xy: 260, 390
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 7
+frame
+  rotate: false
+  xy: 518, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 8
+frame
+  rotate: false
+  xy: 2, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 9
+frame
+  rotate: false
+  xy: 260, 196
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 10
+frame
+  rotate: false
+  xy: 518, 390
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 11
+frame
+  rotate: false
+  xy: 260, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 12
+frame
+  rotate: false
+  xy: 518, 196
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 13
+frame
+  rotate: false
+  xy: 518, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 14
+
+DA2.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+frame
+  rotate: false
+  xy: 2, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 15
+frame
+  rotate: false
+  xy: 2, 390
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 16
+frame
+  rotate: false
+  xy: 260, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 17
+frame
+  rotate: false
+  xy: 2, 196
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 18
+frame
+  rotate: false
+  xy: 260, 390
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 19
+frame
+  rotate: false
+  xy: 518, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 20
+frame
+  rotate: false
+  xy: 2, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: 21

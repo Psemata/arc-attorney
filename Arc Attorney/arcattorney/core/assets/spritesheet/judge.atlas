@@ -1,0 +1,138 @@
+
+judge.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+judge1
+  rotate: false
+  xy: 2, 778
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge10
+  rotate: false
+  xy: 2, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge11
+  rotate: false
+  xy: 260, 196
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge12
+  rotate: false
+  xy: 518, 390
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge13
+  rotate: false
+  xy: 260, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge14
+  rotate: false
+  xy: 518, 196
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge15
+  rotate: false
+  xy: 518, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge2
+  rotate: false
+  xy: 2, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge3
+  rotate: false
+  xy: 260, 778
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge4
+  rotate: false
+  xy: 2, 390
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge5
+  rotate: false
+  xy: 260, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge6
+  rotate: false
+  xy: 518, 778
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge7
+  rotate: false
+  xy: 2, 196
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge8
+  rotate: false
+  xy: 260, 390
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge9
+  rotate: false
+  xy: 518, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+
+judge2.png
+size: 1024, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+judge16
+  rotate: false
+  xy: 2, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge17
+  rotate: false
+  xy: 260, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+judge18
+  rotate: false
+  xy: 518, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
