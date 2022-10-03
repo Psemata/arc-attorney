@@ -2,16 +2,6 @@
 
 Arc Attorney est un projet réalisé en Java durant le cours de P2.
 
-Installation
-------------
-
--
-
-Comment jouer
--------------
-
--
-
 Wiki
 ----
 
