@@ -1,11 +1,11 @@
 # Arc Attorney
 
-Arc Attorney est un projet réalisé en Java durant le cours de P2.
+"Arc Attorney" is a project developed in Java during the P2 course.
 
 Wiki
 ----
 
-Le wiki est disponible sur [git](https://github.com/Psemata/ArcAttorney/wiki).
+The wiki is available at [git](https://github.com/Psemata/ArcAttorney/wiki).
 
 Authors
 -------
